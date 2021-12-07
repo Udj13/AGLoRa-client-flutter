@@ -1,5 +1,6 @@
 # AGLoRa-client-flutter
 Mobile app for AGLoRa (iOs, Android)
+Created by Eugeny Shlyagin (shlyagin@gmail.com)
 
 LoRa tracker AGLoRa: https://github.com/Udj13/AGLoRa/
 
