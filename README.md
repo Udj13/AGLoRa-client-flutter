@@ -8,5 +8,4 @@ Latest release (Android, APK): https://github.com/Udj13/AGLoRa-client-flutter/re
 
 AppStore: https://apps.apple.com/ru/app/aglora/id1600250635
 
-
-![image](https://github.com/Udj13/AGLoRa-client-flutter/assets/54446451/64d7c211-9a4b-4907-9caf-988dfe470e21)
+![Simulator Screenshot - iPhone 13 Pro Max - 2024-01-11 at 10 05 42](https://github.com/Udj13/AGLoRa-client-flutter/assets/54446451/4145d1f1-095d-4628-be3b-6384c470c0da)
